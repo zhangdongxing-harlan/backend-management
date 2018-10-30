@@ -1,26 +1,3 @@
-# backend-management
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+一个利用vue+bmob后端云实现的简单的后台用户管理系统  
+  
+可以实现用户的增删改查
